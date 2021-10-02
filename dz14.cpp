@@ -27,6 +27,7 @@ int main()
 	std::cout << first.front() << "\n";
 	std::cout << first.back() << "\n";
 
+
 	std::cin;
 	return 0;
 }
